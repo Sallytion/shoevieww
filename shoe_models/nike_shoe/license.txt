@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nike Shoe
+* source:	https://sketchfab.com/3d-models/nike-shoe-73501460b48b4e579d18cfab23c0f605
+* author:	uv15o6 (https://sketchfab.com/uv15o6)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nike Shoe" (https://sketchfab.com/3d-models/nike-shoe-73501460b48b4e579d18cfab23c0f605) by uv15o6 (https://sketchfab.com/uv15o6) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
