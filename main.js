@@ -47,9 +47,9 @@ camera3.position.z = 0.39994557505145324;
 camera3.position.x = -3.2744101142760904;
 
 
-const modelPath1 = '/shoe_models/nike_air_max_skor/scene.gltf';
-const modelPath2 = '/shoe_models/nike_sb_charge_cnvs/scene.gltf';
-const modelPath3 = '/shoe_models/nike_shoe/scene.gltf';
+const modelPath1 = '/shoevieww/shoe_models/nike_air_max_skor/scene.gltf';
+const modelPath2 = '/shoevieww/shoe_models/nike_sb_charge_cnvs/scene.gltf';
+const modelPath3 = '/shoevieww/shoe_models/nike_shoe/scene.gltf';
 
 const loader = new GLTFLoader();
 
@@ -60,7 +60,7 @@ Shoe2.add(light.clone());
 Shoe3.add(light.clone());
 
 const textureLoader = new TextureLoader();
-const texture = textureLoader.load('/shoe_models/nike_air_max_skor/textures/NikeAirMaxSkor_100k_tex_fix_u1_v1_diffuse.png'); 
+const texture = textureLoader.load('/shoevieww/shoe_models/nike_air_max_skor/textures/NikeAirMaxSkor_100k_tex_fix_u1_v1_diffuse.png'); 
 
 loader.load(
   modelPath1,
